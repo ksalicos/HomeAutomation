@@ -11,6 +11,7 @@
   <ItemGroup>
     <ProjectReference Include="..\HomeAutomation.Common\HomeAutomation.Common.csproj" />
     <ProjectReference Include="..\HomeAutomation.Contracts\HomeAutomation.Contracts.csproj" />
+    <ProjectReference Include="..\HomeAutomation.DeviceManager\HomeAutomation.DeviceManager.csproj" />
   </ItemGroup>
 
 </Project>

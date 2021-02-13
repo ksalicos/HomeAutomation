@@ -17,7 +17,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{618A008C-9
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAutomation.Messaging", "HomeAutomation.Messaging\HomeAutomation.Messaging.csproj", "{AC85940D-F384-4A0D-A939-0C1EB3ED5813}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeAutomation.Messaging", "HomeAutomation.Messaging\HomeAutomation.Messaging.csproj", "{AC85940D-F384-4A0D-A939-0C1EB3ED5813}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeAutomation.Devices.Button", "HomeAutomation.Devices.Button\HomeAutomation.Devices.Button.csproj", "{6BF2E4B6-545F-4021-BEB8-68B08B4184D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAutomation.Devices", "HomeAutomation.Devices\HomeAutomation.Devices.csproj", "{7092ABD0-5F3E-43BB-928F-6A5EFB26D82E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAutomation.DeviceManager", "HomeAutomation.DeviceManager\HomeAutomation.DeviceManager.csproj", "{D7E03AF6-2023-4296-AAB2-C242C9D710E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{AC85940D-F384-4A0D-A939-0C1EB3ED5813}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC85940D-F384-4A0D-A939-0C1EB3ED5813}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC85940D-F384-4A0D-A939-0C1EB3ED5813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF2E4B6-545F-4021-BEB8-68B08B4184D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF2E4B6-545F-4021-BEB8-68B08B4184D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF2E4B6-545F-4021-BEB8-68B08B4184D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF2E4B6-545F-4021-BEB8-68B08B4184D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7092ABD0-5F3E-43BB-928F-6A5EFB26D82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7092ABD0-5F3E-43BB-928F-6A5EFB26D82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7092ABD0-5F3E-43BB-928F-6A5EFB26D82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7092ABD0-5F3E-43BB-928F-6A5EFB26D82E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7E03AF6-2023-4296-AAB2-C242C9D710E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E03AF6-2023-4296-AAB2-C242C9D710E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E03AF6-2023-4296-AAB2-C242C9D710E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E03AF6-2023-4296-AAB2-C242C9D710E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

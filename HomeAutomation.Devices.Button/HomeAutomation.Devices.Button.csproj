@@ -8,8 +8,4 @@
     <ProjectReference Include="..\HomeAutomation.Common\HomeAutomation.Common.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="BaseClasses\" />
-  </ItemGroup>
-
 </Project>
