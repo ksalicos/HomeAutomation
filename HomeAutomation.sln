@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAutomation.Devices", "H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAutomation.DeviceManager", "HomeAutomation.DeviceManager\HomeAutomation.DeviceManager.csproj", "{D7E03AF6-2023-4296-AAB2-C242C9D710E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAutomation.Devices.Switch", "HomeAutomation.Devices.Switch\HomeAutomation.Devices.Switch.csproj", "{2F053F38-8F0A-4467-8288-DB5037026EE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{D7E03AF6-2023-4296-AAB2-C242C9D710E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7E03AF6-2023-4296-AAB2-C242C9D710E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7E03AF6-2023-4296-AAB2-C242C9D710E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F053F38-8F0A-4467-8288-DB5037026EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F053F38-8F0A-4467-8288-DB5037026EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F053F38-8F0A-4467-8288-DB5037026EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F053F38-8F0A-4467-8288-DB5037026EE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
